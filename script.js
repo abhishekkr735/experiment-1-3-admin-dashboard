@@ -18,3 +18,4 @@ toggleBtn.addEventListener("click", () => {
         toggleBtn.textContent = "🌞 Light Mode";
     }
 });
+
